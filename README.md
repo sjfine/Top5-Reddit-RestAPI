@@ -12,6 +12,6 @@ To run locally:
  
 To run online:
   1) Go to the link: http://sfine.pythonanywhere.com/reddit/
-  2) Add to this URL the name of the subreddit header (Ex. http://sfine.pythonanywhere.com/reddit/news) retrieves top article titles from the news subreddit thread.
+  2) Add to this URL the name of the subreddit header (Ex. http://sfine.pythonanywhere.com/reddit/soccer) retrieves top article titles from the news subreddit thread.
   
  
